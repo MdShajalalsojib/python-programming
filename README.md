@@ -1,6 +1,6 @@
 <h1 align="center">Python Programming</h1>
 
-## : bulb: Topic Name
+ <span style="color:blue">Topic Name:</span>
 <ol>
     <li>Basic syntax and Structure</li>
     <li>Control Flow</li>
