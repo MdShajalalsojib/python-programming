@@ -20,20 +20,20 @@
      
 </ol>
 
-## 1.Basic Syntax and Structure:
+## ✅1.Basic Syntax and Structure:
    - Variables and Data Types
    - Operators(arithmetic,comparison,logical,etc)
    - Comments and Docstrings
-## 2.Control Flow:
+## ✅2.Control Flow:
    - Conditional Statements(if,elif,else)
    - Loops (for,while)
    - Loop Control (break,continue,pass)
-## 3.Functions:
+## ✅3.Functions:
    - Defining and Calling Functions
    - Arguments and Parameters
    - Return Values
    - Scope(local,global) 
-## 4.Data Structures & Algorithm:
+##✅ 4.Data Structures & Algorithm:
    - List
    - Tuples
    - Dictionaries
@@ -46,55 +46,55 @@
    - Linked List
    - Stack
    - Queue
-## 5.Modules and Packages:
+## ✅5.Modules and Packages:
 
-- Importing Modules
-- Standard Library Modules
-- Installing and Using Third-Party Packages(pip)
-## 6.File Handling:
-- Reading and Writing Files
-- Working with File Paths
+   - Importing Modules
+   - Standard Library Modules
+   - Installing and Using Third-Party Packages(pip)
+## ✅6.File Handling:
+   - Reading and Writing Files
+   - Working with File Paths
 
-## 7.Error Handling:
-- Exceptions(try,except,finally)
-- Raising Exceptions
-- Custom Exceptions
+## ✅7.Error Handling:
+   - Exceptions(try,except,finally)
+   - Raising Exceptions
+   - Custom Exceptions
 
-## 8.Object-Oriented Programming(OOP):
-- Classes and Objects
-- Methods and Attributes
-- Inheritance
-- Polymorphism
-- Encapsulation
+## ✅8.Object-Oriented Programming(OOP):
+   - Classes and Objects
+   - Methods and Attributes
+   - Inheritance
+   - Polymorphism
+   - Encapsulation
 
-## 9.Working with Data:
-- Strings (manipulation and formatting)
-- Regular Expressions
-- Dates and Times
+## ✅9.Working with Data:
+   - Strings (manipulation and formatting)
+   - Regular Expressions
+   - Dates and Times
 
-## 10.Advanced Concepts:
-- Decorators
-- Generators and Iterators
-- Context Managers
-- Metaclasses
+## ✅10.Advanced Concepts:
+   - Decorators
+   - Generators and Iterators
+   - Context Managers
+   - Metaclasses
 
-## 11.Libraries and Frameworks:
+## ✅11.Libraries and Frameworks:
 
-- Common Libraries(e.g, Numpy,pandas, matplotlib)
-- Wed Development (Flask, Django)
-- Wed Scraping(BeautifulSoup, Selenium, Scrapy)
-- Data Science and Machine Learning(scikit-learn, TensorFlow, PyTorch)
+   - Common Libraries(e.g, Numpy,pandas, matplotlib)
+   - Wed Development (Flask, Django)
+   - Wed Scraping(BeautifulSoup, Selenium, Scrapy)
+   - Data Science and Machine Learning(scikit-learn, TensorFlow, PyTorch)
 
-## 12.Testing and Debugging :
- - Writing Tests (unittest,pytest)
- - Debugging Tools and Techniques
+## ✅12.Testing and Debugging :
+   - Writing Tests (unittest,pytest)
+   - Debugging Tools and Techniques
 
- ## 13.Version Control:
- - Using Git for Version Control
+ ## ✅13.Version Control:
+   - Using Git for Version Control
 
- ## 14.Best Practices:
- - Code Style
- - Writing Clean and Readable Code
- - Documentation
+ ## ✅14.Best Practices:
+   - Code Style
+   - Writing Clean and Readable Code
+   - Documentation
 
        
