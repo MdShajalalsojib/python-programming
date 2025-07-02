@@ -10,3 +10,7 @@
       <ol>Double quotes: "hello"</ol>
       <ol>Triple quotes (for multi-line strings): '''hello''' or """hello"""</ol>
 </li>
+
+## : 🔁 Useful String Methods
+
+![Project Screenshot](./img/Screenshot%202025-07-02%20142214.png)
