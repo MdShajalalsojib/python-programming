@@ -19,3 +19,6 @@
      
      
 </ol>
+
+## 1.Basic Syntax and Structure:
+   - Variables and Data Types
