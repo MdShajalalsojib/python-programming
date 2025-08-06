@@ -18,5 +18,10 @@
 ## : 🔁Strings are Arrays
 - Python এ string কে array এর মত করে ব্যবহার করা যায়।
 এর মানে হল, তুমি প্রতিটি অক্ষরকে index দিয়ে access করতে পারো। যেমন:
-name = shajalal
- print(name[1])   # Output: h
+- name = shajalal
+-  print(name[1])   # Output: h
+
+## :🔁Looping Through a String
+ - Python-এ Looping Through a String (স্ট্রিং এর উপর লুপ চালানো) একটি খুবই সাধারণ ও গুরুত্বপূর্ণ কাজ। যেহেতু string একটি character এর array-এর মতো, তাই তুমি সহজেই for বা while loop ব্যবহার করে প্রতিটি অক্ষরের উপর লুপ চালাতে পারো।
+
+ 
