@@ -14,3 +14,9 @@
 ## : 🔁 Useful String Methods
 
 ![Project Screenshot](./img/Screenshot%202025-07-02%20142214.png)
+
+## : 🔁Strings are Arrays
+- Python এ string কে array এর মত করে ব্যবহার করা যায়।
+এর মানে হল, তুমি প্রতিটি অক্ষরকে index দিয়ে access করতে পারো। যেমন:
+name = shajalal
+ print(name[1])   # Output: h
