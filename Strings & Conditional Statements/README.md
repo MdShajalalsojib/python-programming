@@ -32,8 +32,8 @@
 ## 🔷 String Length
 ✅ Syntax:
   - len(string)
-  name = "Sojib"
-  print(len(name))   # Output: 5
+     name = "Sojib"
+     print(len(name))   # Output: 5
 
  
 
