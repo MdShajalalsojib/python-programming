@@ -28,3 +28,10 @@
 - 🔷 2. স্ট্রিং এর ইনডেক্স সহ লুপ (index সহ character access)
 - 🔷 3. while loop দিয়ে স্ট্রিং এর উপর লুপ চালানো
 - 🔷 4. স্ট্রিং এর অক্ষর গুলো উল্টো (reverse) করে প্রিন্ট করা
+
+## 🔷 String Length
+✅ Syntax:
+  - len(string)
+name = "Sojib"
+print(len(name))   # Output: 5
+

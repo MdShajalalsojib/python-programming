@@ -48,3 +48,11 @@ for char in message:
 
 print("Total 'a':", count)
 
+#len(string)
+
+name = "Sojib"
+print(len(name))    
+
+
+
+
