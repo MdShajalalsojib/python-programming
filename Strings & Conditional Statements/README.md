@@ -31,8 +31,8 @@
 
 ## 🔷 String Length
 ✅ Syntax:
-  - len(string)
-     name = "Sojib"
+  - len(string)<br>
+     name = "Sojib"<br>
      print(len(name))   # Output: 5
 
  
